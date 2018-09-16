@@ -4,7 +4,7 @@ require_once ('clients.php'); // clients class
 
 $clients = new Clients(); // createing new clients object
 
-echo "Klientų registracijos forma";
+echo "Registracijos forma";
 echo "\n";
 
 echo "norėdami sukurti naują klientą - įveskite 1";
